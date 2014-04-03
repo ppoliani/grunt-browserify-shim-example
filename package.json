@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "~0.3.0",
+    "jquery": "~2.1.0",
+    "moment": "~2.5.1",
+    "browserify": "^3.38.0",
+    "grunt-browserify": "^2.0.1"
+  }
+}
